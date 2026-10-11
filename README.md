@@ -35,7 +35,7 @@ Parmi la liste fournie :
 ## Exercice 10 : Formulaires GET et POST
 
 Partie A - Méthode GET :
-Les données sont envoyées dans l'URL. Après envoi, l'URL affiche les valeurs (exemple : ex10_get.php?nom=Dupont&prenom=Jean&groupe=G1). Les informations sont visibles par tout le monde.
+Les données sont envoyées dans l'URL. Après envoi, l'URL affiche les valeurs (exemple : ex10_get.php?nom=Mimi&prenom=Wijdane&groupe=G1). Les informations sont visibles par tout le monde.
 
 Partie B - Méthode POST :
 Les données sont envoyées dans le corps de la requête. L'URL reste simplement ex10_post.php sans aucune donnée visible. Les informations sont cachées, c'est plus sécurisé.
